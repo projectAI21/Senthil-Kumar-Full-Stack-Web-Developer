@@ -13,8 +13,9 @@ I’m **Senthil Kumar**, a Dubai-based Web Developer passionate about building c
 ## 🛠 Skills
 
 * HTML5 / CSS3 / JavaScript
-* React & Tailwind CSS
-* Django & MySQL
+* Python & Django
+* MySQL
+* Wordpress
 * Git & GitHub
 * Responsive Design & Animations
 * SEO-friendly Development
@@ -26,8 +27,7 @@ I’m **Senthil Kumar**, a Dubai-based Web Developer passionate about building c
 * **Vallo Auto — Service Site**
   Responsive auto service website with animated hero, service catalog, and optimized contact funnel.
 
-* **Vallo Auto — Service Site**
-  Responsive auto service website with animated hero, service catalog, and optimized contact funnel.
+* Have a look at my site for more details...
 
 
 ---

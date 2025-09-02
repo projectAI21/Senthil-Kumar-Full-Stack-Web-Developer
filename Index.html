@@ -52,12 +52,12 @@
 
     /* ===== Skills ===== */
     #skillsGrid { display:grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
-    #skillsGrid div { padding:12px; border-radius:14px; background: var(--card); border: 1px solid rgba(255,255,255,.08); text-align:center; }
+    #skillsGrid div { padding:12px; border-radius:14px; background: var(--card); border: 1px solid rgba(255,255,255,.08); text-align:center;border: 1px solid #5eead4; }
 
     /* ===== Projects ===== */
     #projectsGrid { display:grid; grid-template-columns: repeat(3,1fr); gap: 16px; }
     #projects article { background: var(--card); border:1px solid rgba(255,255,255,.08); border-radius: 18px; overflow: hidden; position:relative; transition: transform .2s ease; }
-    #projects article:hover { transform: translateY(-3px); }
+    #projects article:hover { transform: translateY(-3px); border: 1px solid #5eead4;}
     #projects article figure { aspect-ratio: 16/10; background: linear-gradient(180deg, rgba(96,165,250,.16), rgba(94,234,212,.12)); display:grid; place-items:center; border-bottom: 1px solid rgba(255,255,255,.06); }
     #projects article h3 { margin: 12px; font-size: 18px; }
     #projects article p { margin: 0 12px 12px; color: var(--muted); min-height: 44px; }
@@ -330,3 +330,4 @@ Red Dot – Electro-Mechanical Service Website</h3>
   </script>
 </body>
 </html>
+
